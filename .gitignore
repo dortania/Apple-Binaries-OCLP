@@ -1,4 +1,4 @@
 .DS_Store
-/Frameworks
-/LaunchDaemons
-/PrivateFrameworks
+/Frameworks/Graphics-Acceleration
+/LaunchDaemons/Graphics-Acceleration
+/PrivateFrameworks/Graphics-Acceleration
