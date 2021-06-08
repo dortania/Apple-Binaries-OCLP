@@ -10,3 +10,11 @@ Dedicated repo for hosting all patched binaries used with OpenCore Legacy Patche
   * Brightness Control for El Capitan
 * [Ausdauersportler](https://github.com/Ausdauersportler):
   * Linking fixes for AppleIntelSNBGraphicsFB and AMDRadeonX3000.kext
+  
+  
+## Extra Arguments
+
+Fix Screen Recording on TeraScale 2:
+```sh
+defaults write com.apple.cmio CMIO_Unit_Input_ASC.DoNotUseOpenCL -bool true
+```

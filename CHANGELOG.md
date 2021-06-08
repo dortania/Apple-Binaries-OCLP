@@ -1,5 +1,9 @@
 # Changelog
 
+# 0.0.13
+
+- Add basic Monterey SMBIOS support
+
 # 0.0.12
 - Fix iMac12,x iGPU support
 
