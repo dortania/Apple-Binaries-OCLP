@@ -1,5 +1,9 @@
 # Changelog
 
+# 0.0.14
+
+- Add basic HD 4000 framebuffer support
+
 # 0.0.13
 
 - Add basic Monterey SMBIOS support
